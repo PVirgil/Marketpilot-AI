@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Live App
-[Launch MarketPilot AI](https://your-streamlit-app-link.com)
+[Launch MarketPilot AI](https://marketpilot-ai.streamlit.app)
 
 ---
 
@@ -54,26 +54,6 @@ GROQ_API_KEY=your_groq_api_key_here
 ```bash
 streamlit run streamlit_app.py
 ```
-
----
-
-## ☁️ Deploy on Streamlit Cloud
-
-1. Push your code to GitHub
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud)
-3. Set your `GROQ_API_KEY` in **Secrets**
-4. Deploy and share your custom app URL
-
-```toml
-# .streamlit/secrets.toml
-GROQ_API_KEY = "your_groq_api_key_here"
-```
-
----
-
-## 🛡 License
-
-**MIT** — free to use, adapt, and commercialize with attribution.
 
 ---
 
